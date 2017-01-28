@@ -1,0 +1,18 @@
+{
+  "name": "Bio-Beta",
+  "version": "1.2.1",
+  "description": "Little Bot for announcing when new people join and user leave.",
+  "maintainers": [],
+  "author": "0xygen#1030",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "",
+  "dependencies": {
+    "discord.js": "11.0.x",
+    "npm": "",
+    "jsonfile": ""
+  },
+  "main": "CoffeeEye.js"
+}
